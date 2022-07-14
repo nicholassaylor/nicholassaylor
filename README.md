@@ -3,7 +3,7 @@
 - Currently a student at Penn State University
 - Interested in Systems Administration and Design
 - Always interested in opportunities to learn more
-- Looking for an internship. My resume can be found [here](https://github.com/nicholassaylor/nicholassaylor/blob/main/Nicholas%20Saylor%20-%20Resume.docx?raw=true)
+- Looking for an internship. My resume can be found [here](https://github.com/nicholassaylor/nicholassaylor/blob/main/Nicholas%20Saylor%20-%20Resume.pdf?raw=true)
 - Reachable at nicholas.e.saylor@gmail.com
 
 
