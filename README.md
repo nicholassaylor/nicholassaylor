@@ -1,9 +1,8 @@
 # Welcome to my profile! My name is Nicholas Saylor.
 #### I am:
-- Currently a senior at Penn State University
-- Particularly interested in the intersection between Systems Administration and Economics
-- Always interested in opportunities to continue learning
-- Looking for an entry-level full-time position. My resume can be found [here](https://github.com/nicholassaylor/nicholassaylor/blob/main/Nicholas%20Saylor%20-%20Resume.pdf?raw=true)
+- A Penn State graduate, with a Bachelor of Science in Computer Science with a minor in Computer Engineering and a Bachelor of Science in Economics
+- Particularly interested in Systems Administration and Business Economics
+- Seeking full-time employment. My resume can be found [here](https://github.com/nicholassaylor/nicholassaylor/blob/main/Nicholas%20Saylor%20-%20Resume.pdf?raw=true)
 - Reachable at nicholas.e.saylor@gmail.com
 
 
